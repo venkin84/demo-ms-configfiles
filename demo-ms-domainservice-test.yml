@@ -1,0 +1,5 @@
+custom-config:
+  hello: "Hello from demo-ms-domainservice.yml in git repo"
+
+server:
+  port: 9091
