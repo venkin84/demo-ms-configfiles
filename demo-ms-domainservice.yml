@@ -3,3 +3,6 @@ custom-config:
 
 server:
   port: 9090
+management:
+  server:
+    port: 9091
