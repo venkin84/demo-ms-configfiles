@@ -2,3 +2,5 @@ spring:
   data:
     mongodb:
       uri: mongodb://admin:passwordlocalhost:27017/selfservice
+server:
+  port: 9001
